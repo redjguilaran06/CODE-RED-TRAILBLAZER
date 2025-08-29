@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://o1q6fsb6qqhh"
-path="res://.godot/imported/eye-line.png-bf099d8632c23cb2566739cb087e05d5.ctex"
+uid="uid://404bb4mhhsf5"
+path="res://.godot/imported/arrow-left-line.png-335bd97931df17fa5b957599e798cea3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://eye-line.png"
-dest_files=["res://.godot/imported/eye-line.png-bf099d8632c23cb2566739cb087e05d5.ctex"]
+source_file="res://art/arrow-left-line.png"
+dest_files=["res://.godot/imported/arrow-left-line.png-335bd97931df17fa5b957599e798cea3.ctex"]
 
 [params]
 

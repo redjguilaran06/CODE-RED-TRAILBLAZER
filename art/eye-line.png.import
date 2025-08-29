@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ca1spma0rhyqq"
-path="res://.godot/imported/menu-line.png-78836db83577af2a5db6603ae3aab0a5.ctex"
+uid="uid://o1q6fsb6qqhh"
+path="res://.godot/imported/eye-line.png-698245b83f541381ef94375fb914e9fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://menu-line.png"
-dest_files=["res://.godot/imported/menu-line.png-78836db83577af2a5db6603ae3aab0a5.ctex"]
+source_file="res://art/eye-line.png"
+dest_files=["res://.godot/imported/eye-line.png-698245b83f541381ef94375fb914e9fd.ctex"]
 
 [params]
 

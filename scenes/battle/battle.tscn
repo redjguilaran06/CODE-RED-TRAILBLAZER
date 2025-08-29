@@ -21,7 +21,7 @@
 [ext_resource type="PackedScene" uid="uid://dfig8d63ggof1" path="res://scenes/ui/battle_over_panel.tscn" id="17_xrby7"]
 [ext_resource type="Texture2D" uid="uid://c7c8cgkuro8b3" path="res://art/discard.png" id="18_g47ei"]
 [ext_resource type="PackedScene" uid="uid://d2jq2r5hb1ajk" path="res://scenes/ui/card_pile_view.tscn" id="21_rnul2"]
-[ext_resource type="PackedScene" uid="uid://c3fu2yk5vm3qb" path="res://scenes/ui/status_view.tscn" id="22_kfjwu"]
+[ext_resource type="PackedScene" uid="uid://b5eebdr5o1iu7" path="res://scenes/ui/status_view.tscn" id="22_kfjwu"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_xyg5u"]
 size = Vector2(1080, 1554)

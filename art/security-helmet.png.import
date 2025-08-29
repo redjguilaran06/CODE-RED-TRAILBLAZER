@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cgn6f3udq71iv"
-path="res://.godot/imported/664b7786-0dc1-4980-97d1-94ce3302abe4.jpg-b7aa2f6bcc764e256909705baf149f35.ctex"
+uid="uid://hif8j05a8cfj"
+path="res://.godot/imported/security-helmet.png-7f49f38766cf6023da9f254c4fdaffc1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://664b7786-0dc1-4980-97d1-94ce3302abe4.jpg"
-dest_files=["res://.godot/imported/664b7786-0dc1-4980-97d1-94ce3302abe4.jpg-b7aa2f6bcc764e256909705baf149f35.ctex"]
+source_file="res://art/security-helmet.png"
+dest_files=["res://.godot/imported/security-helmet.png-7f49f38766cf6023da9f254c4fdaffc1.ctex"]
 
 [params]
 
